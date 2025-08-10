@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">Design e Front-End</h2>
+<h2 align="left">🎨Design e Front-End</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -24,11 +24,11 @@
 
 ###
 
-<h2 align="center">Back-End e Banco de Dados</h2>
+<h2 align="left">⚙️Back-End e Banco de Dados</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,11 +40,11 @@
 
 ###
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="left">🛠️Ferramentas</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -71,18 +71,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FelipeJorgeL&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=8&order=3" height="200" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/snake.svg" alt="Snake animation" />
 
 ###
 
