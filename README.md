@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor em formação cursando o ensino médio no Instituto J&F.<br>Trabalho com ferramentas de design e programação para criar sistemas e interfaces funcionais.<br>Foco principalmente no Back-end usando Java</p>
+<p align="left">Sou um desenvolvedor em formação cursando o ensino médio no Instituto J&F.<br>Atualmente como Auxiliar de TI na PicPay.<br></p>
 
 ###
 
