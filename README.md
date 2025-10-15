@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor em formação cursando o ensino médio no Instituto J&F.<br>Atualmente como Auxiliar de TI na PicPay.<br></p>
+<p align="left">Cursando o ensino médio no Instituto J&F.<br>Atualmente como Auxiliar de TI na PicPay.<br></p>
 
 ###
 
