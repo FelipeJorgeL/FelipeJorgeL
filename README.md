@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Cursando o ensino médio no Instituto J&F.<br>Atualmente como Auxiliar de TI na PicPay.<br></p>
+<p align="left">Cursando o ensino médio no Instituto J&F.<br>Atualmente como Auxiliar de TI na PicPay.</p>
 
 ###
 
@@ -29,6 +29,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -58,24 +60,16 @@
 
 ###
 
-<h1 align="left"></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelipeJorgeL/FelipeJorgeL/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeJorgeL&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeJorgeL&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=8&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeJorgeL.FelipeJorgeL&left_color=darkslategray&right_color=steelblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeJorgeL.FelipeJorgeL&left_color=black&right_color=darkslateblue&left_text=Vistantes"  />
 </div>
 
 ###
