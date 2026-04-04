@@ -63,7 +63,7 @@ Back-end developer focused on building high-performance REST APIs with **Go** an
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJorgeL&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeJorgeL&theme=github_dark" alt="Top Languages" />
 </div>
 
 ---
