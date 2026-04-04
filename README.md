@@ -17,7 +17,7 @@
 
 ### About
 
-Back-end developer focused on building high-performance REST APIs with **Go** and the **Gin** framework. Currently working as an **IT Assistant at PicPay**, applying best practices in API design, database modeling, and containerized deployments. I value clean architecture, well-tested code, and scalable systems.
+Back-end developer focused on building high-performance REST APIs with **Go** and the **Gin** framework. Currently working as an **Development Assistant at PicPay**. I value clean architecture, well-tested code, and scalable systems.
 
 ---
 
